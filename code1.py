@@ -1,3 +1,3 @@
 print("hola mundo")
 x = 8
-print(x)
+print(x**3)
