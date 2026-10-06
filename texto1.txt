@@ -1,2 +1,2 @@
 ESTO ES INTRODUCCIÒN A GIT
-ESTa lìnea està creada desde el develop1
+ESTa lìnea està creada desde la rama develop1.
