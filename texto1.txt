@@ -1,2 +1,2 @@
 ESTO ES INTRODUCCIÒN A GIT
-ESTa lìnea està creada desde el main.
+Arreglando o ajustando conflicto.
