@@ -1,3 +1,4 @@
 ESTO ES INTRODUCCIÒN A GIT
 Arreglando o ajustando conflicto.
 editado en local
+editado en remoto
